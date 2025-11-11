@@ -1,0 +1,30 @@
+Virtual environment folder
+
+/venv/
+
+PySpark cache and logs
+
+.log
+.spark-warehouse/
+log4j.properties
+*.log
+.log.
+
+Generated data files
+
+*.csv
+*.json
+
+Python cache
+
+pycache/
+*.pyc
+
+VS Code settings
+
+.vscode/
+
+Windows/Mac junk
+
+.DS_Store
+Thumbs.db

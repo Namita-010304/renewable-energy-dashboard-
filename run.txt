@@ -1,0 +1,3 @@
+.\venv\Scripts\activate
+python energy_prediction.py
+python prediction_dashboard.py
